@@ -1,6 +1,6 @@
 # Financial_Dashboard
 
-## Project Overview
+## Overview
 
 This project presents a **Credit Card Financial Analysis Dashboard** developed using **Microsoft Power BI**.
 The dashboard provides a comprehensive view of **customer behavior and transaction performance**, enabling financial institutions to analyze **revenue, interest earnings, customer demographics, spending patterns, and card usage trends**.
@@ -22,19 +22,6 @@ The data is sourced from **CSV files**, transformed using **Power Query**, and a
 * Track transaction volume and spending behavior
 * Evaluate card performance and acquisition costs
 * Support strategic financial and marketing decisions
-
----
-
-## Dataset
-
-* **Format:** CSV
-* **Data Includes:**
-
-  * Customer demographics (age, gender, education, marital status)
-  * Income levels and job categories
-  * Card types and customer segments
-  * Transaction details and expenditure types
-  * Revenue, interest, fees, and transaction counts
 
 ---
 
@@ -64,29 +51,29 @@ The data is sourced from **CSV files**, transformed using **Power Query**, and a
 
 ### 🔹 1. Customer Report
 
-#### Summary Metrics
-#### Revenue vs Gender
-#### Age Group Analysis
-#### Customer Job Segmentation
-#### Top States Analysis
-#### Salary Group Analysis
-#### Dependents Analysis
-#### Marital Status Analysis
-#### Education Level Analysis
-#### Filters & Controls
+* Summary Metrics
+* Revenue vs Gender
+* Age Group Analysis
+* Customer Job Segmentation
+* Top States Analysis
+* Salary Group Analysis
+* Dependents Analysis
+* Marital Status Analysis
+* Education Level Analysis
+* Filters & Controls
 ---
 
 ### 🔹 2. Transaction Report
 
-#### Top-Level Financial Metrics
-#### Card Category Performance
-#### Quarterly Performance
-#### Revenue by Expenditure Type
-#### Revenue by Education Level
-#### Revenue by Job Type
-#### Revenue by Transaction Mode
-#### Customer Acquisition Cost
-#### Filters & Controls
+* Top-Level Financial Metrics
+* Card Category Performance
+* Quarterly Performance
+* Revenue by Expenditure Type
+* Revenue by Education Level
+* Revenue by Job Type
+* Revenue by Transaction Mode
+* Customer Acquisition Cost
+* Filters & Controls
 
 
 ---
