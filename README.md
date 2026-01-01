@@ -46,7 +46,7 @@ The data is sourced from CSV files, transformed using Power Query, and analyzed 
 
 ## Dashboard Pages & Features
 
-### 🔹 1. Customer Report
+### 1. Customer Report
 
 * Summary Metrics
 * Revenue vs Gender
@@ -60,7 +60,7 @@ The data is sourced from CSV files, transformed using Power Query, and analyzed 
 * Filters & Controls
 
 
-### 🔹 2. Transaction Report
+### 2. Transaction Report
 
 * Top-Level Financial Metrics
 * Card Category Performance
@@ -83,7 +83,7 @@ The data is sourced from CSV files, transformed using Power Query, and analyzed 
 * Acquisition costs vary widely across card categories
 
 
-## 🖼 Dashboard Preview
+## Dashboard Preview
 
 ### Customer Report
 ![alt text](image.png)
