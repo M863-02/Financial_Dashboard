@@ -2,17 +2,14 @@
 
 ## Overview
 
-This project presents a **Credit Card Financial Analysis Dashboard** developed using **Microsoft Power BI**.
-The dashboard provides a comprehensive view of **customer behavior and transaction performance**, enabling financial institutions to analyze **revenue, interest earnings, customer demographics, spending patterns, and card usage trends**.
+This project presents a Credit Card Financial Analysis Dashboard developed using Microsoft Power BI.
+The dashboard provides a comprehensive view of customer behavior and transaction performance, enabling financial institutions to analyze revenue, interest earnings, customer demographics, spending patterns, and card usage trends.
 
-The project consists of **two interactive report pages**:
+The project consists of two interactive report pages: Customer Report, Transaction Report
 
-* **Customer Report**
-* **Transaction Report**
+The data is sourced from CSV files, transformed using Power Query, and analyzed using DAX measures.
 
-The data is sourced from **CSV files**, transformed using **Power Query**, and analyzed using **DAX measures**.
 
----
 
 ## Objectives
 
@@ -23,29 +20,29 @@ The data is sourced from **CSV files**, transformed using **Power Query**, and a
 * Evaluate card performance and acquisition costs
 * Support strategic financial and marketing decisions
 
----
+
 
 ## Tools & Technologies
 
-* **Microsoft Power BI Desktop**
-* **Power Query**
-* **DAX (Data Analysis Expressions)**
-* **CSV Files** as data source
+* Microsoft Power BI Desktop
+* Power Query
+* DAX (Data Analysis Expressions)
+* CSV Files as data source
 
----
+
 
 ## Data Preparation & Modeling
 
 * Imported raw CSV datasets into Power BI
-* Cleaned and transformed data using **Power Query**
-* Created calculated measures using **DAX**, including:
+* Cleaned and transformed data using Power Query
+* Created calculated measures using DAX, including:
   * Total Revenue
   * Total Interest Earned
   * Transaction Amount and Count
   * Customer Satisfaction Score (CSS)
 * Built relationships for accurate cross-filtering between customer and transaction data
 
----
+
 
 ## Dashboard Pages & Features
 
@@ -61,7 +58,7 @@ The data is sourced from **CSV files**, transformed using **Power Query**, and a
 * Marital Status Analysis
 * Education Level Analysis
 * Filters & Controls
----
+
 
 ### 🔹 2. Transaction Report
 
@@ -76,7 +73,6 @@ The data is sourced from **CSV files**, transformed using **Power Query**, and a
 * Filters & Controls
 
 
----
 
 ## Key Insights
 
@@ -86,7 +82,6 @@ The data is sourced from **CSV files**, transformed using **Power Query**, and a
 * Certain professions and income groups contribute significantly to revenue
 * Acquisition costs vary widely across card categories
 
----
 
 ## 🖼 Dashboard Preview
 
